@@ -1,0 +1,31 @@
+DAY,ROOM,START,FINISH,COURSE_CODE,COURSE,CLASS,CREDITS,SEMESTER_SARAN,LECTURER'S_CODE,LECTURER
+Tuesday,02.13 (IP-IFP),15:30,17:10,STI606,Basic Research Methodology,A,2,6,155220412,"Prof. Zahari Taha, B.Sc., Ph.D."
+Monday,02.11 (IP-IFP),09:30,12:00,STI201,Calculus 2,A,3,2,025240101,"Dr. R.M Sisdarmanto Adinandra, S.T., M.Sc."
+Sunday,R.Internasional,00:00,00:05,UNI608,Community Service,A,2,7,999999999,Default Dosen
+Wednesday,Lab. Datamining,12:30,15:00,STI605,Computer Simulation,A,3,6,015220101,"Muhammad Ridwan Andi Purnomo, S.T., M.Sc., Ph.D."
+Tuesday,02.13 (IP-IFP),07:00,09:30,STI404,Data Base Management System,A,3,4,045230101,"Irving Vitra Paputungan, S.T., M.Sc., Ph.D."
+Wednesday,02.13 (IP-IFP),15:30,18:00,STI917,Data Science,A,3,7,966110101,"Dr.techn. Rohmatul Fajriyah, S.Si., M.Si."
+Thursday,02.11 (IP-IFP),10:20,12:00,STI202,Electromagnetism,A,2,2,045130402,"Prof. Dr. Sismanto, M.Si."
+Monday,02.13 (IP-IFP),12:30,14:10,STI402,Engineering Economics,A,2,4,145220102,"Annisa Uswatun Khasanah, S.T., M.Sc."
+Tuesday,02.13 (IP-IFP),12:30,15:00,STI603,Enterprise Analysis and Design,A,3,6,145220101,"Bambang Suratno, S.T., M.T., Ph.D."
+Friday,02.11 (IP-IFP),15:30,18:00,STI601,Facility Layout Design,A,3,6,215221302,"Dr. Eng. Meilinda Fitriani Nur Maghfiroh, S.T., MBA."
+Saturday ,R.Internasional,12:30,15:00,STI802,Field Work/Internship,A,3,8,999999999,Default Dosen
+Tuesday,02.11 (IP-IFP),10:20,12:00,STI408,Industrial Psychology,A,2,4,013200101,"Dr.rer.nat. Arief Fahmie, S.Psi., M.A., Psi."
+Monday,02.13 (IP-IFP),09:30,12:00,STI604,Integrated Industrial System Design,A,3,6,095220101,Dr Harwati
+Thursday,02.11 (IP-IFP),08:40,10:20,STI205,Introduction to Economics,A,2,2,985220102,"Dr. Agus Mansur, S.T., M.Eng.Sc."
+Wednesday,Daring,07:00,08:40,UNI601,Islam Ulil Albab,A,3,2,035200528,"Aang Kunaefi, S.Ag., M.Ag."
+Friday,02.11 (IP-IFP),09:30,11:10,STI206,Materials Chemistry,A,2,2,006120101,"Prof. Riyanto, S.Pd., M.Si., Ph.D."
+Saturday,02.13 (IP-IFP),07:00,08:40,STI204,Mechanics Physics,A,2,2,075220502,"Dr. Ir. Rudi Suhradi Rachmat, M.Eng."
+Tuesday,02.11 (IP-IFP),12:30,14:10,UNI603,Pancasila,A,2,2,066120401,"Pedy Artsanti, S.Si., M.Sc."
+Wednesday,02.13 (IP-IFP),10:20,12:00,STI407,Production Planning and Control 2,A,2,4,015220101,"Muhammad Ridwan Andi Purnomo, S.T., M.Sc., Ph.D."
+Thursday,02.13 (IP-IFP),09:30,12:00,STI405,Quality Control and Assurance,A,3,4,955220101,"Ir. Hartomo, M.Sc., Ph.D., IPU."
+Wednesday ,02.11 (IP-IFP),09:30,12:00,STI905,Risk Management,A,3,6,025200519,"Ir. Winda Nur Cahyo, S.T., M.T., Ph.D."
+Tuesday,02.11 (IP-IFP),08:40,10:20,UNI607,Scientific Writing,A,2,2,178200501,"Rina Desitarahmi, S.Pd., M.Hum."
+Friday,02.11 (IP-IFP),13:00,14:40,UNI607,Scientific Writing,A,2,2,178200501,"Rina Desitarahmi, S.Pd., M.Hum."
+Thursday,02.11 (IP-IFP),15:30,18:00,STI929,SCM Performance Management,A,3,7,935220101,"Prof. Dr. Ir. Elisa Kusrini, M.T."
+Friday,02.11 (IP-IFP),07:50,09:30,STI203,Statistics 1,A,2,2,966110101,"Dr.techn. Rohmatul Fajriyah, S.Si., M.Si."
+Monday,02.11 (IP-IFP),15:30,18:00,STI401,Stochastic Model,A,3,4,185220101,"Danang Setiawan, S.T., M.T."
+Thursday,02.13 (IP-IFP),12:30,15:00,STI607,Supply Chain Management,A,3,6,935220101,"Prof. Dr. Ir. Elisa Kusrini, M.T."
+Thursday,02.13 (IP-IFP),07:00,08:40,STI406,System Modeling,A,2,4,985220102,"Dr. Agus Mansur, S.T., M.Eng.Sc."
+Saturday,R.Internasional,08:40,12:00,STI801,Undergraduate Thesis/Scientific Work,A,5,8,999999999,Default Dosen
+Tuesday,Lab APK Ergonom,12:30,15:00,STI403,Work System Design & Ergonomics,A,3,4,085220410,"Amarria Dila Sari, S.T., M.Eng."
